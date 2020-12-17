@@ -1,0 +1,155 @@
+0;System Information;Rendszerinformáció;Sistem informație
+1;Operating system;Operációs rendszer;Sistem de operare
+2;Motherboard;Alaplap;Placă de bază
+3;Processor;Processzor;Procesor
+4;Memory;Memória;Memorie
+5;Graphics;Grafika;Grafică
+6;Storage;Tárhely;Depozitare
+7;Network;Hálózat;Reţea
+8;File;Fájl;Fişier
+9;View;Nézet;Vedere
+10;About;Névjegy;Despre
+11;Save;Mentés;Salvați
+12;Exit;Kilépés;Ieșire
+13;Directory;Könyvtár;Bibliotecă
+14;Version;Verzió;Versiune
+15;Manufacturer;Gyártó;Producător
+16;BIOS version;BIOS verzió;BIOS versiune
+17;Cores;Magok;Miezuri
+18;Threads;Szálak;Fire
+19;Socket;Foglalat;Priză
+20;Stepping;Stepping;Stepping
+21;Total RAM;Összes RAM;Total RAM
+22;Speed;Gyorsaság;Viteză
+23;Memory type;Memória típus;Memorie tip
+24;Channel;Csatorna;Canal
+25;module;modul;modul
+26;modules;modul;module
+27;Single-channel;Egycsatornás;Singur-canal
+28;Dual-channel;Kétcsatornás;Dual-canal
+29;Triple-channel;Háromcsatornás;Triplu-canal
+30;Quad-channel;Négycsatornás;Quad-canal
+31;Six-channel;Hatcsatornás;Şase-canal
+32;Eight-channel;Nyolccsatornás;Opt-canal
+33;Display;Kijelző;Afişa
+34;Subnet mask;Alhálózati maszk;Mască de rețea
+35;Default gateway;Alapértelmezett átjáró;Gateway implicit
+36;DNS server;DNS szerver;DNS server
+37;Unknown;Ismeretlen;Necunoscut
+38;Undefined;Nem definiált;Nedefinit
+39;Computer name;Számítógép neve;Nume de calculator
+40;Username;Felhasználónév;Nume de utilizator
+41;System name;Rendszer neve;Nume de sistem
+42;Build;Build;Build
+43;Architecture;Architektúra;Arhitectură
+44;Install date;Telepítés dátuma;Data instalării
+45;System language;Rendszer nyelve;Limba de sistem
+46;Workgroup;Munkacsoport;Grup de lucru
+47;Time zone;Időzóna;Fus orar
+48;Information;információ;Informație
+49;Name;Név;Nume
+50;Serial number;Sorozatszám;Număr de serie
+51;Hot swap;Forrócsere;Hot swap
+52;Available;Elérhető;Disponibil
+53;Unavailable;Nem elérhető;Indisponibil
+54;Release date;Kiadás dátuma;Data de eliberare
+55;Language;Nyelv;Limba
+56;Sound devices;Hangeszközök;Sunet disponzitive
+57;Printers;Nyomtatók;Imprimante
+58;Status;Állapot;Condiție
+59;Other;Más;Alte
+60;Enabled;Engedélyezve;Activat
+61;Disabled;Kikapcsolva;Dezactivat
+62;Not applicable;Nem alkalmazható;Nu se aplică
+63;Virtualization;Virtualizáció;Virtualizare
+64;Data width;Adatszélesség;Date lăţime
+65;Current speed;Jelenlegi sebesség;Actual viteză
+66;Number of modules;Modulok száma;Numera de module
+67;Total virtual memory;Összes virtuális memória;Total virtual memorie
+68;Memory Size;Memória méret;Memorie mărimea
+69;Free Memory;Szabad memória;Memorie gratuit
+70;Free virtual memory;Szabad virtuális memóra;Virtual memorie gratuit
+71;Resolution;Felbontás;Rezoluţie
+72;Refresh rate;Frissítési gyakoriság;Rata de reîmprospăta
+73;Video memory;Videó memória;Video memorie
+74;Driver version;Illesztőprogram verzió;Versiunea driverului
+75;Driver date;Illesztőprogram dátum;Data de driverului
+76;ID;Azonosító;Identificator
+77;Size;Méret;Mărimea
+78;Number of sectors;Szektorok száma;Numera de sectors
+79;Firmware;Firmware;Firmware
+80;Device type;Eszköz típus;Tip de dispozitiv
+81;drive;meghajtó;conduce
+82;Type;Típus;Tip
+83;No root directory;Nem gyökérkönyvtár;Fără bibliotecă rădăcină
+84;Removable disk;Hordozható eszköz;Amovibil disc
+85;Local disk;Helyi lemez;Local disc
+86;Network drive;Hálózati meghajtó;Reţea conduce
+87;CD/DVD disk;CD/DVD lemez;CD/DVD disc
+88;RAM disk;RAM lemez;RAM disc
+89;File system;Fájlrendszer;Fişier sistem
+90;Partitions;Partíciók;Partiții
+91;Free space;Szabad terület;Spaţiu gratuit
+92;Wireless;Vezeték nélküli;Fără fir
+93;Physical address;Fizikai cím;Fizic adresa
+94;Service name;Szolgáltatás neve;Nume de serviciu
+95;External IPv6 address;Nyilvános IPv6-cím;Extern IPv6 adresa
+96;External IPv4 address;Nyilvános IPv4-cím;Extern IPv4 adresa
+97;Disconnected;Lecsatlakoztatott;Deconectat
+98;Connecting...;Csatlakozás...;Se conectează ...
+99;Connected;Csatlakoztatott;Conectat
+100;Disconnecting...;Lecsatlakozás...;Se deconectează ...
+101;Hardware not present;Nincs hardver;Hardware-ul nu este prezent
+102;Hardware disabled;Hardver kikapcsolva;Hardware dezactivat
+103;Hardware malfunction;Hardver működési hiba;Defecțiune hardware
+104;Media disconnected;Média lecsatlakoztatva;Media deconectată
+105;Authenticating...;Hitelesítés...;Autentificare...
+106;Authentication succeeded;Sikeres hitelesítés;Autentificarea a reușit
+107;Authentication failed;Sikertelen hitelesítés;Autentificare esuata
+108;Invalid address;Érvénytelen cím;Invalid adresa
+109;Credentials required;Igazolás szükséges;Sunt necesare acreditări
+110;Apply;Alkalmaz;Aplica
+111;Usage;kihasználtság;utilizarea
+112;Loading...;Betöltés...;Se încarcă...
+113;Primary bus type;Elsődleges busztípus;Principalul tip de bus
+114;Number of PCI buses;PCI buszok száma;Numera de PCI bus
+115;Number of PnP buses;PnP buszok száma;Numera de PnP bus
+116;Reload;Újratöltés;Reîncarcă
+117;Settings;Beállítások;Setări
+118;Bus speed;Busz-sebesség;Viteză de bus
+119;Multiplier;Szorzó;Multiplicator
+120;Peripherals;Perifériák;Periferice
+121;Keyboard;Billentyűzet;Tastatură
+122;Mouse;Egér;Mouse
+123;RAM;RAM;RAM
+124;Virtual memory;Virtuális memória;Virtual memorie
+125;Usage;Használat;Utilizarea
+126;Free;Szabad;Gratuit
+127;Window size;Ablak mérete;Mărimea de fereastră
+128;Idle;Tétlen;Inactiv
+129;Printing;Nyomtat;Tipărire
+130;Warming up;Melegszik;Incalzire
+131;Stopped printing;Nyomtatás szüneteltetve;Imprimare oprită
+132;Offline;Offline;Deconectat
+133;Paused;Szüneteltetve;Întrerupt
+134;Error;Hiba;Eroare
+135;Busy;Foglalt;Ocupat
+136;Waiting;Várakozik;Aşteptare
+137;Processing;Feldolgoz;Prelucrare
+138;Initialization;Inicializálás;Inițializare
+139;Power save;Energia takarékos;Economisire energie
+140;Pending deletion;Törlés függőben;În așteptarea ștergerii
+141;I/O active;I/O aktív;I/O activ
+142;Manual feed;Kézi adagolás;Alimentare manuală
+143;Default;Alapértelmezett;Mod implicit
+144;Yes;Igen;Da
+145;No;Nem;Nu
+146;Network;Hálózati;Reţea
+147;Local;Helyi;Local
+148;DAC type;DAC típusa;Tip de DAC
+149;Horizontal resolution;Vízszintes felbontás;Rezoluție orizontală
+150;Vertical resolution;Függőleges felbontás;Rezoluție verticală
+151;Bits per pixel;Bitek pixelenként;Biți de pixel
+152;Number of colors;Színek száma;Numera de culori
+153;Inf filename;Inf fájlnév;Numele de Inf fişier
+154;Printer;Nyomtató;Imprimantă
